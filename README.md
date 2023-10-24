@@ -9,8 +9,8 @@ The objective of the Job Tracker project is to create a web application that hel
 ## ⏯ Preview
 Take a look at the live <a href="https://prickly-leather-jacket.cyclic.app/" target="_blank">Preview of the app.</a>.
 
-##  Tech Stack
-React.js<br></br>
+## 👨‍💻 Tech Stack
+EJS<br></br>
 Node.js<br></br>
 Express.js<br></br>
 MongoDB<br></br>
